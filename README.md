@@ -236,7 +236,7 @@ When I'm not building AI systems, you'll probably find me:
 
 ## 🌐 Connect With Me
 
-[![Outlook](https://img.shields.io/badge/Outlook-Amr.Haridy.AI@outlook.com-blue?style=for-the-badge)](mailto:Amr.Haridy.AI@outlook.com)
+[![Email](https://img.shields.io/badge/Email-Amr.Hashem.Neo%40Proton.me-6d4aff?style=plastic&logo=proton&logoColor=white)](mailto:Amr.Hashem.Neo@Proton.me)
 
 ---
 
