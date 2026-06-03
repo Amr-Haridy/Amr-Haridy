@@ -1,8 +1,11 @@
-# Hi 👋 I'm Hashem
+# Hi I'm Hashem
 
-## 🚀 Founder • Chief AI Engineer • AI Architect @ Zaigel
+![Zaigel](https://img.shields.io/badge/Zaigel-Founder%20%E2%80%A2%20Chief%20AI%20Engineer%20%E2%80%A2%20AI%20Architect-6d4aff?style=plastic)
+[![Email](https://img.shields.io/badge/Email-Amr.Hashem.Neo%40Proton.me-6d4aff?style=plastic&logo=proton&logoColor=white)](mailto:Amr.Hashem.Neo@Proton.me)
 
-Leading the design, architecture, and deployment of:
+---
+
+## Leading the design, architecture, and deployment of:
 
 - 🤖 Enterprise AI Solutions
 - 🧠 Multi-Agent Systems
@@ -14,85 +17,86 @@ Leading the design, architecture, and deployment of:
 - 🚀 AI Product Development
 
 ---
+
 # 🛠️ Technology Stack
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-Expert-blueviolet?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Systems-success?style=for-the-badge)
-![AI_Agents](https://img.shields.io/badge/AI_Agents-Agentic_Systems-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=plastic&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=plastic)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Expert-blueviolet?style=plastic)
+![RAG](https://img.shields.io/badge/RAG-Systems-success?style=plastic)
+![AI_Agents](https://img.shields.io/badge/AI_Agents-Agentic_Systems-success?style=plastic)
 
 ---
 
 ## 💻 Backend Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST_API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-orange?style=for-the-badge)
-![Software_Architecture](https://img.shields.io/badge/Software_Architecture-System_Design-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![REST_API](https://img.shields.io/badge/REST_API-02569B?style=plastic)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-orange?style=plastic)
+![Software_Architecture](https://img.shields.io/badge/Software_Architecture-System_Design-blue?style=plastic)
 
 ---
 
 ## 📊 Data Science & Analytics
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-Advanced-success?style=for-the-badge)
-![Predictive_Analytics](https://img.shields.io/badge/Predictive_Analytics-Expert-success?style=for-the-badge)
-![Feature_Engineering](https://img.shields.io/badge/Feature_Engineering-ML-important?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=plastic)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=plastic)
+![Statistics](https://img.shields.io/badge/Statistics-Advanced-success?style=plastic)
+![Predictive_Analytics](https://img.shields.io/badge/Predictive_Analytics-Expert-success?style=plastic)
+![Feature_Engineering](https://img.shields.io/badge/Feature_Engineering-ML-important?style=plastic)
 
 ---
 
 ## 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vector_DBs](https://img.shields.io/badge/Vector_Databases-RAG-purple?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
+![Vector_DBs](https://img.shields.io/badge/Vector_Databases-RAG-purple?style=plastic)
 
 ---
 
 ## ☁️ Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge)
-![S3](https://img.shields.io/badge/AWS-S3-green?style=for-the-badge)
-![Cloud9](https://img.shields.io/badge/AWS-Cloud9-blue?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS-EC2-orange?style=plastic)
+![S3](https://img.shields.io/badge/AWS-S3-green?style=plastic)
+![Cloud9](https://img.shields.io/badge/AWS-Cloud9-blue?style=plastic)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=plastic&logo=redhat&logoColor=white)
 
 ---
 
 ## 🔄 Automation & AI Orchestration
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Workflow_Automation](https://img.shields.io/badge/Workflow-Automation-success?style=for-the-badge)
-![AI_Agents](https://img.shields.io/badge/AI-Agent_Orchestration-purple?style=for-the-badge)
-![API_Integrations](https://img.shields.io/badge/API-Integrations-blue?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white)
+![Workflow_Automation](https://img.shields.io/badge/Workflow-Automation-success?style=plastic)
+![AI_Agents](https://img.shields.io/badge/AI-Agent_Orchestration-purple?style=plastic)
+![API_Integrations](https://img.shields.io/badge/API-Integrations-blue?style=plastic)
 
 ---
 
 ## 🧪 Engineering Practices
 
-![Design_Patterns](https://img.shields.io/badge/Design_Patterns-Software_Engineering-blue?style=for-the-badge)
-![Unit_Testing](https://img.shields.io/badge/Unit_Testing-Quality_Assurance-success?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Technical-Documentation-orange?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-Methodology-blueviolet?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Design_Patterns](https://img.shields.io/badge/Design_Patterns-Software_Engineering-blue?style=plastic)
+![Unit_Testing](https://img.shields.io/badge/Unit_Testing-Quality_Assurance-success?style=plastic)
+![Documentation](https://img.shields.io/badge/Technical-Documentation-orange?style=plastic)
+![Agile](https://img.shields.io/badge/Agile-Methodology-blueviolet?style=plastic)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 
 ---
 
@@ -167,7 +171,7 @@ While my professional focus is Artificial Intelligence, Machine Learning, and So
 
 - 🌠 Investigating Quantum Gravity concepts as a potential bridge between General Relativity and Quantum Mechanics.
 - 🕳️ Exploring Sub-Planckian frameworks aimed at addressing singularity behavior in black holes and cosmological models.
-- ⚛️ Studying potential pathways toward unifying gravity with:
+- ⚛️ Studying potential pathways toward unifying gravity with other fundamental forces.
 - 🧮 Developing computational simulations using Python and AI-assisted research methodologies.
 
 ## 🧬 Bioinformatics & Computational Biology
@@ -198,14 +202,15 @@ While my professional focus is Artificial Intelligence, Machine Learning, and So
 
 # 🎓 Educational Journey
 
-I began my academic path in Naval Engineering at Alexandria University, where I developed a strong foundation in mathematics, physics, systems thinking, and engineering principles, A rigorous engineering curriculum that forged deep mathematical intuition and systems-thinking discipline.
+I began my academic path in Naval Engineering at Alexandria University, where I developed a strong foundation in mathematics, physics, systems thinking, and engineering principles. It was a rigorous engineering curriculum that forged deep mathematical intuition and systems-thinking discipline.
 
-on Feb 2018 Recognizing the rapid emergence of Artificial Intelligence and Machine Learning as transformative technologies,  Recognising the inflection point of machine learning's global adoption, I made the deliberate decision to direct those same analytical foundations toward the field where I could create the most impact. The engineering rigour of that training continues to inform every architecture decision and model I build today. 
+In Feb 2018, recognizing the rapid emergence of Artificial Intelligence and Machine Learning as transformative technologies, and acknowledging the inflection point of machine learning's global adoption, I made the deliberate decision to direct those same analytical foundations toward the field where I could create the most impact. The engineering rigor of that training continues to inform every architectural decision and model I build today. 
 
 ---
 
 # 🌍 Languages
-### Biligual 
+### Bilingual 
+
 - 🇪🇬 Arabic — Native Proficiency
 - 🇬🇧 English — Professional Proficiency
 
@@ -220,8 +225,8 @@ When I'm not building AI systems, you'll probably find me:
 - 🎼 Composing Classical Music
 - 🎬 Writing Film Scores
 - 🌌 Studying Cosmology & Physics
----
 
+---
 
 # ⚡ Personal Principles
 
